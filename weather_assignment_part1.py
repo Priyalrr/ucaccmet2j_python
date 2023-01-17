@@ -19,7 +19,7 @@ for station_line in measurements_dict:
 import json
 results={
     "Seattle":{
-        "State": "Washington",
+        "State": "WA",
         "Station": "GHCND:US1WAKG0038",
         "total_monthly_precipitation": total_monthly_precipitation
         }
